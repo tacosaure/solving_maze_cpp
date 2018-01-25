@@ -12,4 +12,4 @@ GRADE OBTAINED : A
 
 WARNING : This program is not fully ended. You have to modify the program in order to solve the maze if you start at the end of the maze and you have to solve the issue when the end of the maze is at the middle of a way (line). 
 
-WARNING 2 : Sometimes I used setter and getter but in c++ it can be useless. You can just implement function returning an address (&) or/and taking in input an address (&).
+WARNING 2 : Sometimes I used setter and getter but in c++ it can be useless. You can just implement function returning an address (&) or/and taking as an input an address (&).
