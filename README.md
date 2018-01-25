@@ -4,7 +4,7 @@ Program coded in c++.
 
 It is a project for a c++ course at ESIEE PARIS ( Engineering School ) during the first semester of the 4th year.
 
-CHECK OUT .PDF
+CHECK OUT .PDF (FRENCH)
 
 SUBJECT : Solving a maze
 
