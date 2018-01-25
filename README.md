@@ -8,6 +8,6 @@ CHECK OUT .PDF
 
 SUBJECT : Solving a maze
 
-GRADE : A
+GRADE OBTAINED : A
 
 WARNING : This program is not fully ended. You have to modify the program in order to solve the maze if you start at the end of the maze and you have to solve the issue when the end of the maze is at the middle of a way (line). 
